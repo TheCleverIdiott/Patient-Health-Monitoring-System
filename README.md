@@ -16,6 +16,18 @@ This project is an ESP32-based patient health monitoring system that measures ro
 - Breadboard and Jumper Wires
 - 4.7kΩ Resistor (for DS18B20)
 
+
+| Component                | Description                                      | Amazon Link                                               | AliExpress Link                                          |
+|--------------------------|--------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|
+| **ESP32 Development Board** | A microcontroller with Wi-Fi and Bluetooth capabilities | [Amazon](https://www.amazon.com/s?k=ESP32+Development+Board) | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=ESP32+Development+Board) |
+| **DHT11 Temperature and Humidity Sensor** | Sensor for measuring temperature and humidity | [Amazon](https://www.amazon.com/s?k=DHT11+Temperature+and+Humidity+Sensor) | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=DHT11+Temperature+and+Humidity+Sensor) |
+| **DS18B20 Temperature Sensor** | Digital temperature sensor | [Amazon](https://www.amazon.com/s?k=DS18B20+Temperature+Sensor) | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=DS18B20+Temperature+Sensor) |
+| **MAX30100 Pulse Oximeter** | Sensor for measuring heart rate and SpO2 | [Amazon](https://www.amazon.com/s?k=MAX30100+Pulse+Oximeter) | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=MAX30100+Pulse+Oximeter) |
+| **Breadboard and Jumper Wires** | For prototyping and connecting components | [Amazon](https://www.amazon.com/s?k=Breadboard+and+Jumper+Wires) | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=Breadboard+and+Jumper+Wires) |
+| **4.7kΩ Resistor**       | Resistor needed for DS18B20 sensor | [Amazon](https://www.amazon.com/s?k=4.7kΩ+Resistor) | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=4.7kΩ+Resistor) |
+
+This table provides an organized way to display the required hardware components along with links to where they can be purchased.
+
 ## Software Required
 - Arduino IDE
 - ESP32 Board Manager (installed via Arduino IDE)
