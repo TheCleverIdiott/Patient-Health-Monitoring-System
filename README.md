@@ -99,6 +99,21 @@ The code consists of the following main parts:
 
 - **HTML Page Generation:**
   - Generate an HTML page with embedded sensor data to be displayed in a web browser.
+ 
+
+
+
+## Results
+
+| | |
+|--------------------------|--------------------------|
+| <img src="https://github.com/user-attachments/assets/1b4ed722-50cd-4f80-826d-e840199dad8b" width="200"> | <img src="https://github.com/user-attachments/assets/6a29e3c7-420b-45a2-9299-045a0f804801" width="300"> |
+| <img src="https://github.com/user-attachments/assets/cf5d8a5e-5b88-450e-868a-dd6e73887ad8" width="300"> |
+
+This table provides a more organized and compact display of the result images.
+
+
+
 
 ## Contributions
 
